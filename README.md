@@ -59,3 +59,6 @@ eslint-plugin-jsx-a11y : JSX요소의 접근성 규칙에 대한 정적 검사 �
 
 root폴더에서 .prettierrc 생성
 ```
+
+# 4. Typography
+https://mui.com/material-ui/react-typography/
