@@ -1,0 +1,10 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#ff4d4d",
+    "titleBar.inactiveBackground": "#ff4d4d"
+  },
+  "explorer.compactFolders": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
