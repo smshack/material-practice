@@ -46,3 +46,16 @@ module.exports = {
     }
 }
 ```
+
+# 3. prettier 설정
+```
+yarn add eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-prettier eslint-config-prettier
+
+
+eslint-plugin-import : ES6의 import, export 구문을 지원, 필수 플러그인
+eslint-plugin-react : React 규칙이 들어있는 플러그인
+eslint-plugin-react-hooks : React Hooks 규칙이 들어있는 플러그인
+eslint-plugin-jsx-a11y : JSX요소의 접근성 규칙에 대한 정적 검사 플러그인
+
+root폴더에서 .prettierrc 생성
+```
